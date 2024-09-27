@@ -15,3 +15,4 @@ This repository contains my assessment submission for the module...
 
 - Hello from Lab Group A
 - Hello from Lab Group C
+- Hello from Lab Group B
